@@ -41,7 +41,7 @@ Are you passionate about blockchain technology and interested in validator opera
 
 ## Contact Us
 
-Feel free to reach out to us with any questions, partnership proposals, or if you simply want to learn more about our work. Connect with us via [email@example.com](mailto:email@example.com) or join our community on [Discord](https://discord.gg/yourcommunitylink).
+Feel free to reach out to us with any questions, partnership proposals, or if you simply want to learn more about our work. Connect with us via [X](https://x.com/valid_block) or join our community on [Discord](https://discord.com/users/846163483028619364).
 
 ---
 
